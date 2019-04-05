@@ -1,6 +1,6 @@
 Code,Description,,,,Code,Specialty,Description
 30,Health Benefit Plan Coverage,,,,1,Medical Care,"Medical services to diagnose and/or treat a medical condition, illness, or injury"
-,General healthcare benefits for the member's policy or contract,,,,2,Surgical,Surgical services provided by a healthcare provider
+,,,,,2,Surgical,Surgical services provided by a healthcare provider
 ,Start: 09/20/2009,,,,3,Consultation,"Counseling and/or coordination of care with other Physicians, other qualified Healthcare Providers or agencies"
 32,Plan Waiting Period,,,,4,Diagnostic X-Ray,Diagnostic x-ray provided by a healthcare provider
 ,,,,,5,Diagnostic Lab,Diagnostic lab provided by a healthcare provider
@@ -23,7 +23,7 @@ Code,Description,,,,Code,Specialty,Description
 39,Prosthodontics,,,,26,Endodontics,"The branch of dentistry that is concerned with the morphology, physiology and pathology of the dental pulp and periradicular (gum) tissues."
 ,"The part of dentistry pertaining to the restoration and maintenance of oral function, comfort, appearance and health of the patient by replacement of missing teeth and contiguous tissues with artificial substitutes. It has three main branches: removable prosthodontics, fixed prosthodontics and maxillofacial prosthetics.",,,,27,Maxillofacial Prosthetics,"The branch of prosthetics is concerned with the restoration of stomatognathic and associated facial structure that have been affected by disease, injury, surgery, or congenital defect."
 ,Start: 09/20/2009,,,,28,Adjunctive Dental Services,Typically these services involve a drug such as anesthesia or other substances that serve as a supplemental purpose in dental therapy.
-40,Oral Surgery,,,,30,Health Benefit Plan Coverage,
+40,Oral Surgery,,,,30,Health Benefit Plan Coverage,General healthcare benefits for the member's policy or contract
 ,"Diagnosis and treatment of disorders of the mouth, teeth, jaws and facial structure provided by a healthcare provider",,,,32,Plan Waiting Period,
 ,Start: 09/20/2009,,,,33,Chiropractic,
 41,Preventive Dental,,,,35,Dental Care,
